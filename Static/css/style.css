@@ -1,0 +1,15 @@
+
+
+.jumbotron {
+    background-image: url("../images/HarmfulBacteria_web.jpg");
+    background-size: 100% 100%;
+    color: #f7f7f7;
+    text-align: center;
+}
+
+.flexbox {
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-flow: column;
+ }
